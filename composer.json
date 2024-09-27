@@ -34,7 +34,7 @@
   "extra":{
     "virion": {
       "spec": "3.0",
-      "namespace-root": "Sandertv\\Marshal"
+      "namespace-root": "sylvrs\\libMarshal"
     }
   }
 }

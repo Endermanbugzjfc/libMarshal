@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace libMarshal;
+namespace sylvrs\libMarshal;
 
 use libMarshal\attributes\Field;
 use libMarshal\parser\Parseable;
