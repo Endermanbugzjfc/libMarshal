@@ -9,9 +9,7 @@
     }
   ],
   "autoload": {
-    "psr-4": {
-      "libMarshal\\": "src/libMarshal"
-    }
+    "classmap": ["src"]
   },
   "autoload-dev": {
     "psr-4": {
