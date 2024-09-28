@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace sylvrs\libMarshal;
 
-use libMarshal\property\IntProperty;
-use libMarshal\property\StringProperty;
+use sylvrs\libMarshal\property\IntProperty;
+use sylvrs\libMarshal\property\StringProperty;
 
 class PropertyFilledUser extends User {
 	use MarshalTrait;

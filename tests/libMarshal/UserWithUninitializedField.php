@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace sylvrs\libMarshal;
 
-use libMarshal\attributes\Field;
+use sylvrs\libMarshal\attributes\Field;
 
 final class UserWithUninitializedField extends User {
 	use MarshalTrait;

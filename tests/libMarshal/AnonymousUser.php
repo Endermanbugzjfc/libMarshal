@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace sylvrs\libMarshal;
 
-use libMarshal\attributes\Exclude;
+use sylvrs\libMarshal\attributes\Exclude;
 
 final class AnonymousUser extends User {
 	use MarshalTrait;
